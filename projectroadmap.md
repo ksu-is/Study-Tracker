@@ -1,0 +1,4 @@
+- [x] Create Read ME 
+- [x] Create RoadMap
+- [x] Find Similar Project and Analyze
+- [ ] Start coding project 
