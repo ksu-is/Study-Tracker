@@ -1,4 +1,8 @@
 - [x] Create Read ME 
 - [x] Create RoadMap
 - [x] Find Similar Project and Analyze
-- [ ] Start coding project 
+- [x] Start coding project 
+- [x] let people view entrys
+- [x] Add Study Goal
+- [ ] Delete Subject
+- [ ] Add Search
