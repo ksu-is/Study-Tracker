@@ -42,3 +42,12 @@ while True:
            print("You reached your study goal!")
         else:
            print("You need", study_goal - total_hours, "more hours to reach your goal.")
+    elif choice == "4":
+        print("\nSaving progress...")
+        print("Thank you for using Study Tracker!")
+        print("Keep up the great studying!")
+        break
+
+    else:
+        print("\nInvalid choice.")
+        print("Please enter only 1, 2, 3 or 4.")
